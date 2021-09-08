@@ -1,3 +1,12 @@
+---
+layout: page
+title: The World of Systems 
+subtitle: What is a System?/
+permalink: /gh-pages/
+feature-img: 
+hide: true
+---
+
 ## Contents
 ### The World of Systems
 - [What is a System?](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/What%20is%20a%20System%3F.html)
