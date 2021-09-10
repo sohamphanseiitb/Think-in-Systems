@@ -21,3 +21,6 @@ Let's start with what functions a school performs – the first thing that pops 
 You must be wondering that as a student, your function is to study, get good grades, get a good job and might not be in tune with disseminating knowledge. That's the essence of the very nature of systems, it is not necessary that the functions/purposes of the elements mathc to that of the system as a whole. A professor might want to become the Head of the Department, a student might want a good job, get good grades, an admin might want to get a promotion, but all these acting coherently, in a quest to achieve their own objectives, accomplish the objectives of the system. That's the beauty of the systems architecture! But this *non-aligned*-ness of the elements and system comes at its own cost in terms of complexity. More on that sometime later!
 
 Let me leave you at this point, try to think of examples which can be seen from the systems lens, we will look at some more exciting traits of systems, the next time I post!
+
+---
+_to go back to the home page, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)_
