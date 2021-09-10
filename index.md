@@ -1,6 +1,7 @@
 ## Contents
 ### The World of Systems
 - [What is a System?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
+- [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
 
 <!-- ## Welcome to GitHub Pages
 
