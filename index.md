@@ -4,12 +4,10 @@
 - [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
 
 <html>
-  <script>
-    MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
-    svg: {fontCache: 'global'}};
-  </script>
-  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"> </script>
-  $$ \alpha$$
+<script>
+MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">$$ \alpha$$ </script>
 <\html>
 
 <!-- ## Welcome to GitHub Pages
