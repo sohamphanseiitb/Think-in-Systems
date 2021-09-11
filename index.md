@@ -3,14 +3,12 @@
 - [What is a System?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
 - [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
 
-<html>
 <script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
 </script>
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">  </script>
   > Typing $\latex$ here, 
   $$\alpha$$
-<\html>
 
 <!-- ## Welcome to GitHub Pages
 
