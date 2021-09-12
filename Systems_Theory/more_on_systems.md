@@ -6,8 +6,13 @@ Lets first point out the function a sport team executes. It can be winning match
 
 All these elements are inter-related in some way, the behavior of the system depends on how all of these elements are inter-connected and form a whole; the players' communications, coach's strategy, the laws of physics governing the motion of the ball and the bat, the sense of team bonding among the members. 
 
-You must have by now, understood how we analyze systems in general, I would want that you apply the same type of analysis and identify to each of the following systems
+You must have by now, understood how we analyze systems in general, I would want that you apply the same type of analysis and identify to each of the following systems:
 1. The e-ticketing system
 2. The Traffic management system
 3. Courier and Logistic system
 4. The educational system (you are a part of)
+
+---
+_to go back to the home page, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)_
+
+
