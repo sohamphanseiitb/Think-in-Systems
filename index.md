@@ -8,31 +8,6 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
-  
-  <link rel='shortcut icon' href='/favicon.ico' type='image/x-icon'/ >
-  <title>WnCC</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="description" content="Web and Coding Club is one of the biggest clubs of IIT Bombay. As a part of the Students' Technical Activities Body, we aim to provide a gateway for the people in our institute to join the coding community. We create a platform which allows students to gain assistance and mentorship to enhance their coding ability. Our aim is to propagate the enthusiasm for coding in the institute and especially amongst freshmen. We believe that every student here at IITB should have an opportunity to learn how to code and develop a passion for it. The secret of getting ahead is getting started and we aim to provide every student with the right start." />
-  <meta name="keywords" content="web,coding,c++,cpp,c,javascript,android,app,development,java,css,python,ml,ai,machine learning,iitb,iit bombay,mumbai,graphics,competitive coding,hacking,security,network,information,data structures,algorithms,open source,hackathons" />
-    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-    <script src="/js/jquery.min.js"></script>
-    <script src="/js/skel.min.js"></script>
-    <script src="/js/skel-layers.min.js"></script>
-    <script src="/js/init.js"></script>
-    <noscript>
-        <link rel="stylesheet" href="/css/skel.css" />
-    </noscript>
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65902553-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-65902553-1');
-    </script>
-
 </head>
 
 ## Hello World!
