@@ -10,23 +10,25 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 
-## Hello World!
+  <h2> Hello World! </h2>
 Namaste everyone! Greetings from India!
 
 I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum.
 
-Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the [Student Satellite Program](https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101). 
+Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.
 
 I have tried it to keep it as intuitive as possible, and keeping technical terms to a minimum. Not that I have compromised the technical details, but there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to Undergraduates. 
 
-## My recommendation
+  <h2> My recommendation </h2>
 I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!
 
-## Contents
-### The World of Systems
-- [What is a System?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
-- [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
-- [What is Systems Engineering?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html)
+  <h2> Contents </h2>
+  <h3> The World of Systems </h3>
+  <ul>
+  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System? </a>
+  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
+  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html">What is Systems Engineering?</a>
+  </ul>
 
 <!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
