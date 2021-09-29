@@ -13,14 +13,14 @@
   <h2> Hello World! </h2>
 Namaste everyone! Greetings from India!
 
-I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum.
+<p> I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum. </p>
 
-Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.
+<p> Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.</p>
 
-I have tried it to keep it as intuitive as possible, and keeping technical terms to a minimum. Not that I have compromised the technical details, but there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to Undergraduates. 
+<p> I have tried it to keep it as intuitive as possible, and keeping technical terms to a minimum. Not that I have compromised the technical details, but there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to Undergraduates. </p>
 
   <h2> My recommendation </h2>
-I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!
+<p> I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!</p>
 
   <h2> Contents </h2>
   <h3> The World of Systems </h3>
