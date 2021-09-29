@@ -13,7 +13,7 @@
   <h2> Hello World! </h2>
 Namaste everyone! Greetings from India!
 
-<p> I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum. </p>
+<p> I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum. <br><br>
 
 <p> Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.</p>
 
