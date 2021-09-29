@@ -2,13 +2,14 @@
 ### The World of Systems
 - [What is a System?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
 - [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
+- [What is Systems Engineering?](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/Systems_Theory/systems-engineering.md)
 
-<script>
+<!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
 </script>
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">  </script>
   > Typing $\latex$ here, 
-  $$\alpha$$
+  $$\alpha$$-->
 
 <!-- ## Welcome to GitHub Pages
 
