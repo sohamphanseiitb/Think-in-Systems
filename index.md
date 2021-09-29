@@ -27,7 +27,7 @@ Greetings from India!
   <ul>
   <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System? </a>
   <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
-  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html">What is Systems Engineering?</a>
+  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html">What is Systems Engineering?</a></li>
   </ul>
 
 <!--<script>
