@@ -10,8 +10,8 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 
-  <h2> Hello World! </h2>
-Namaste everyone! Greetings from India!
+  <h2> Namaste World! </h2>
+Greetings from India!
 
 <p> I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum. <br><br>
 
