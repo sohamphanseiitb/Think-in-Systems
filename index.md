@@ -2,7 +2,7 @@
 ### The World of Systems
 - [What is a System?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
 - [More on Systems](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
-- [What is Systems Engineering?](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/Systems_Theory/systems-engineering.md)
+- [What is Systems Engineering?](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/Systems_Theory/systems-engineering.html)
 
 <!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
