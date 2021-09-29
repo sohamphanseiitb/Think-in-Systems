@@ -1,4 +1,4 @@
-<!--DOCTYPE html-->
+<!--DOCTYPE html
 <html>
 <head>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -9,26 +9,26 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 </head>
-<body>
-  <h2> Namaste World! </h2>
+<body>-->
+## Namaste World!
+
 Greetings from India!
 
-<p> I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum. <br><br>
+I am Soham Phanse, a third year Undergraduate from the Department of Aerospace Engineering at IIT Bombay. Since joining IIT Bombay, I have observed a lack of systems thinking perspective towards engineering problems in undergraduates, which is completely is natural, because no such courses are offered in the Core curriculum.
 
-<p> Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.</p>
+Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, project but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101">Student Satellite Program</a>.
 
-<p> I have tried it to keep it as intuitive as possible, and keeping technical terms to a minimum. Not that I have compromised the technical details, but there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to Undergraduates. </p>
+I have tried it to keep it as intuitive as possible, and keeping technical terms to a minimum. Not that I have compromised the technical details, but there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to Undergraduates.
 
-  <h2> My recommendation </h2>
+## My recommendation
 <p> I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!</p>
 
-  <h2> Contents </h2>
-  <h3> The World of Systems </h3>
-  <ul>
-  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System? </a>
-  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
-  <li><a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html">What is Systems Engineering?</a></li>
-  </ul>
+## Contents
+### The World of Systems
+- <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System?</a>
+- <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
+- <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html"> What is Systems Engineering?</a>
+
 
 <!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
@@ -74,5 +74,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
-  </body>
-</html>
