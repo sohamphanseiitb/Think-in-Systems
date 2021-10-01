@@ -19,4 +19,7 @@ As it is evident that *Systems Engineering* is a highly inter-disciplinary scien
 Fasten your seat belts! The ride's gonna be exciting!!
 
 ---
+_to go back to the previous article *More on Systems*, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)_
+
+---
 _to go back to the home page, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)_
