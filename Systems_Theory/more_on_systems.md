@@ -12,7 +12,9 @@ If you observe the amount of differences in opinions of what the thing is, you w
 
 So not just elements, but the inter-connections are equally important, and last but not the least, the function the system performs of the purpose it serves. Systems can be simple, when we can predict how they will behave in the future, they are complex when we can't. Systems can be highly functional. Most importantly **Systems can be embedded within other systems, which themselves are a part of a larger system**. 
 
-Let's see some more examples of systems to make the idea, clear and easy to understand. Basically, it all depends on your point of view, a bird, an aeroplane, a tree, a forest, humans, cities, economies, solar systems, galaxies all are in principle, **Systems**. It is only the nature and complexity of the processes going on in these systems is different, but the principles which govern their, so-called, '**System**-ness is the same. In the last post, we looked at a school or an university from a systems perspective. Now, lets take a cricket team, or for that matter any sport team. Can we dissect and analyze it from the Systems perspective, why not, lets try!
+Let's see some more examples of systems to make the idea, clear and easy to understand. Basically, it all depends on your point of view, a bird, an aeroplane, a tree, a forest, humans, cities, economies, solar systems, galaxies all are in principle, **Systems**. It is only the nature and complexity of the processes going on in these systems is different, but the principles which govern their, so-called, '**System**-ness is the same. Systems can adapt to changing scenarios, they can repair themselves over time, they can respond, react to situations and can display evolutionary behavior.
+
+In the last post, we looked at a school or an university from a systems perspective. Now, lets take a cricket team, or for that matter any sport team. Can we dissect and analyze it from the Systems perspective, why not, lets try!
 
 Lets first point out the function a sport team executes. It can be winning matches, pursuing one's passion, making the country proud or something as frugal as making money! The elements of the system consists of the players, coach, equipment and other auxiliary staff.
 
@@ -28,5 +30,3 @@ Stay tuned!
 
 ---
 _to go back to the home page, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)_
-
-
