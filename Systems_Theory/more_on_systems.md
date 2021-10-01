@@ -12,7 +12,7 @@ So, a system is not equal to its parts but something more than its parts. Everyd
 
 > <blockqoute>"You think you understand <q>two</q> because you understand <q>one</q> and <q>one</q>. But you forget you must also understand <q>and</q></blockqoute>. 
 
-So not just elements, but the inter-connections are equally important, and last but not the least, the function the system performs of the purpose it serves. 
+So not just elements, but the inter-connections are equally important, and last but not the least, the function the system performs of the purpose it serves. Systems can be simple, when we can predict how they will behave in the future, they are complex when we can't. Systems can be highly functional. Most importantly **Systems can be embedded within other systems, which themselves are a part of a larger system**. 
 
 Let's see some more examples of systems to make the idea, clear and easy to understand. In the last post, we looked at a school or an university from a systems perspective. Now, lets take a cricket team, or for that matter any sport team. Can we dissect and analyze it from the Systems perspective, why not, lets try!
 
