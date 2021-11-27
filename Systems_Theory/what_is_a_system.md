@@ -1,6 +1,6 @@
 # What is a system?
 
-Think about it – we often use the word **system** countlessly many times in our daily lives, the e-ticketing system you use to plan and book tickets for your upcoming holiday, the traffic management system which manages the road traffic in your city, the public transportation system which you must have used to commute to college, work, and the education system comprising of schools, colleges, testing agencies of which you are currently a part of and a lot more, among a large *zoo of systems* around us. 
+Think about it – we use the word **system** countlessly many times in our lives; for an instance, the e-ticketing system you use to plan and book tickets for your upcoming holiday, the traffic management system which manages the road traffic in your city, the public transportation system which you must have used to commute to college, work, and the education system comprising of schools, colleges, testing agencies of which you are currently a part of. The list is never ending and there are a lot more making a large *zoo of systems* around us. 
 
 It's surreal that we come across a countless number of systems in our lives, but we look towards them locally, based on a reductionist view, the cause-and-effect mentality, and not at all as a holistic picture. This blog aims to bridge this gap by intuitively explaining **Systems Science** in an undergraduate accessible manner and inculcate the habit of a *holistic systems thinking* in daily life. 
 
