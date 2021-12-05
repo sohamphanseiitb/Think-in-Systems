@@ -12,7 +12,7 @@ Before that, here are some conventions which we will follow. The storehouse is o
 
 The clouds are what lie beyond the system under consideration, at this point let us only consider the population stock and the filling and draining flows in the form of births and deaths, which alter the level of the stock. So, given a constant number of births of 100k per year and constant number of deaths of 50k (just assume, its not like its real!) and 1000k to be the initial value of the population (i.e at time t = 0, or whenever you start **observing** the system) the population stock varies with time as follows:
 
-![Population Trends](https://sohamphanseiitb.github.io/Think-in-Systems/assets/system-dynamics/p2.PNG)
+![Population Trends](https://sohamphanseiitb.github.io/Think-in-Systems/assets/system-dynamics/p2.png)
 
 Now, in general in complex systems, births and deaths do not remain constant over time but are in turn dependent on the stock. We can have directly or inversely dependent flow magnitudes proportional to the stock magnitude of a function of the stock magnitude. Just as in our population model (to a first approximation), we know the number of births are governed by the number of individuals capable to reproduce, which are directly proportional to the population as are the number of deaths, since a larger population means a larger number of deaths. Of course, this simplistic model is not enough to fit real world data and of any practical use, however it is a great learning tool, to envision how large dynamical systems work, interact together.
 
