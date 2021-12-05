@@ -27,5 +27,6 @@ You must be wondering that as a student, you might want to study, get good grade
 Let me leave you at this point, try to think of examples which can be seen from the systems lens, we will look at some more exciting traits of systems, the next time I post!
 
 ---
-_to go back to the home page, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)_                                                
-_to go to the next article in series, click [here](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)_
+> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)                                                
+
+> [>> Next Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
