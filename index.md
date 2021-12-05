@@ -28,6 +28,7 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System?</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html"> What is Systems Engineering?</a>
+- <a href="https://github.com/sohamphanseiitb/Think-in-Systems/blob/67cba5a44d7babeb70582d5fedb19dee02f21892/Systems_Theory/system-dynamics-basics.md"> Basics of System Dynamics </a>
 
 
 <!--<script>
