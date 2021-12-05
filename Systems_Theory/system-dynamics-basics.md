@@ -8,11 +8,11 @@ To analyse how a system behaves with time, we usually use the so-called 'Stock' 
 
 Before that, here are some conventions which we will follow. The storehouse is our system and we intend to analyse its behavior. It is a 1 stock and 2 flow (inflow and outflow) system. Other than that, we have labor, capital, controllers and other elements to complete the system. 
 
-![Basic 1 Stock and 2 Flow Population Model](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/system-dynamics/p1.PNG)
+![Basic 1 Stock and 2 Flow Population Model](https://sohamphanseiitb.github.io/Think-in-Systems/assets/system-dynamics/p1.PNG)
 
 The clouds are what lie beyond the system under consideration, at this point let us only consider the population stock and the filling and draining flows in the form of births and deaths, which alter the level of the stock. So, given a constant number of births of 100k per year and constant number of deaths of 50k (just assume, its not like its real!) and 1000k to be the initial value of the population (i.e at time t = 0, or whenever you start **observing** the system) the population stock varies with time as follows:
 
-![Population Trends](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/system-dynamics/p2.png)
+![Population Trends](https://sohamphanseiitb.github.io/Think-in-Systems/assets/system-dynamics/p2.PNG)
 
 Now, in general in complex systems, births and deaths do not remain constant over time but are in turn dependent on the stock. We can have directly or inversely dependent flow magnitudes proportional to the stock magnitude of a function of the stock magnitude. Just as in our population model (to a first approximation), we know the number of births are governed by the number of individuals capable to reproduce, which are directly proportional to the population as are the number of deaths, since a larger population means a larger number of deaths. Of course, this simplistic model is not enough to fit real world data and of any practical use, however it is a great learning tool, to envision how large dynamical systems work, interact together.
 
