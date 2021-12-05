@@ -33,4 +33,4 @@ Stay tuned!
 
 > [\<\< Previous Article (What is a System?)](https://sohamphanseiitb.github.io/Think-in-Systems/what_is_a_system.html)
 
-> [\>\> Next Article (What is Systems Engineering?)](https://sohamphanseiitb.github.io/Think-in-Systems/what_is_a_system.html)
+> [\>\> Next Article (What is Systems Engineering?)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html)
