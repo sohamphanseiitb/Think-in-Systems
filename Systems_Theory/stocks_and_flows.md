@@ -12,7 +12,7 @@ From the above analysis we have a few important conclusions
 - If sum of all outflows equals sum of all inflows, stock level will not change; it will be heldin dynamic equilibrium at level it happened to be when 2 sets of flows became equal.
 - A stock can be increased by decreasing outflow rate as well as by increasing inflow rate.
 
-<img src=https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/system-dynamics/stock_flow.PNG> </img>
+![Stocks and Flows](https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/system-dynamics/stock_flow.PNG)
 
 A stock acts as a source of momentum, lag, delay or a buffer in a system.  A stock takes timeto change, because the flows (inflows and outflows both!)  take time to flow.  For an instance-  consider  an  event  of  a  global  oil  crisis  wherein  the  supply  is  in  shortage  -  there  are  fuelreserves which are maintained so that the customer demand can be fulfilled until the supplyresumes, so that the smooth operation of the system can be maintained.  Had there been nosuch stock then the effect of inflow stoppage would have immediately affected the consumers.The stocks, or the storage tanks in our case, acted as shock absorbers and ensured smoothoperation of the system.  An important conclusion which can be derived from this is -
 
