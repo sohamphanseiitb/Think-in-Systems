@@ -15,7 +15,7 @@ This feedback tends to increase or decrease the stock level depending on the inc
 
 I think you must have by now how feedback work, it reacts to a certain quantity internal or external to the system and creates a response which tries to alter the level of the stock. In this example, take the stock as the potential energy of the ball, in the reinforcing feedback loop (inverted bowl) the decrease in potential energy of the ball stimulates the system which accelerates the ball in the direction of motion. This again leads to decrease in potential energy and this happens till the decrease is zero, i.e the ball becomes stable in the direction perpendicular to the direction of gravity (in this case).
 
-Hope you are now familiar with the basics of Systems - Stocks, Flows and Feedbacks. In the next article, we will look at Causal Loop Diagrams, a nice and intuitive to graphically depict the system and gain useful insights. Hope you are enjoying!
+Hope you are now familiar with the basics of Systems - Stocks, Flows and Feedbacks. In the next article, we will look at Causal Loop Diagrams, a nice and intuitive to graphically depict the system and gain useful insights. Hope you are enjoying!!
 
 ---
 - [Homepage](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
