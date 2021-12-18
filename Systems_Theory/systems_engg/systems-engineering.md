@@ -17,10 +17,8 @@ By now, it must be evident to you that *Systems Engineering* is a highly inter-d
 Fasten your seat belts! The ride's gonna be exciting!!
 
 ---
-> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
-
-> [<< Previous Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
-
-> [>> Next Article (Basics of System Dynamics)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html)
+- [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
+- [<< Previous Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
+- [>> Next Article (Basics of System Dynamics)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html)
 
 
