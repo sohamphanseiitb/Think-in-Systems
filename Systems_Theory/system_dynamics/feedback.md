@@ -19,4 +19,4 @@ Hope you are now familiar with the basics of Systems - Stocks, Flows and Feedbac
 
 ---
 - [Homepage](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
-- [<< Previous Article (Stocks and Flows)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/stocks_and_flows.html)
+- [<< Previous Article (Stocks and Flows)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems-Theory/system_dynamics/stocks_and_flows.html)
