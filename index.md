@@ -25,10 +25,15 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 
 ## Contents
 ### The World of Systems
+
+#### Systems Engineering
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System?</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html">More on Systems</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html"> What is Systems Engineering?</a>
+
+#### System Dynamics
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html"> Basics of System Dynamics </a>
+- <a href="https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/Systems_Theory/stocks_and_flows.md"> Stocks and Flows - Building Blocks of Systems </a>
 
 
 <!--<script>
