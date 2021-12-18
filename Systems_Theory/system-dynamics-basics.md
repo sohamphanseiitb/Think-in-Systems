@@ -19,6 +19,6 @@ Now, in general in complex systems, births and deaths do not remain constant ove
 Till now, the flows in our model were independent of the stock, however in the real world, this is not the case, how do they then propagate the information and communicate with the stock? Stick around to find out -- the next time I post! 
 
 ---
-> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
-
-> [<< Previous Article - What is Systems Engineering?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html)
+- [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
+- [<< Previous Article - What is Systems Engineering?](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html)
+- [>> Next Article - Stocks and Flows](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/stocks_and_flows.html)
