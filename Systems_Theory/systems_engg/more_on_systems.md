@@ -29,8 +29,6 @@ You must have by now, understood how we analyze systems in general, I would want
 Stay tuned!
 
 ---
-> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
-
-> [\<\< Previous Article (What is a System?)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
-
-> [\>\> Next Article (What is Systems Engineering?)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems-engineering.html)
+- [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
+- [<< Previous Article (What is a System?)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html)
+- [>> Next Article (What is Systems Engineering?)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/systems-engineering.html)
