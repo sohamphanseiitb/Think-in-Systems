@@ -18,7 +18,7 @@ A stock acts as a source of momentum, lag, delay or a buffer in a system.  A sto
 
 > **A stock allows the inflows and outflows to be temporarily independent and out of balance of each other.**
 
-That was all about Stocks and Flows. Remember this are the basic building blocks we use to model the **dynamics** or in simple terms the behavior of the system over time. 
+That was all about Stocks and Flows. Remember this are the basic building blocks we use to model the **dynamics** or in simple terms the behavior of the system over time. We will now look at how the elements of the system, or stocks interact/communicate with each other, termed as '_Feed-back_'. Stay Tuned!
 
 - [ Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
 - [Previous Article (Basics of System Dynamics)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html)
