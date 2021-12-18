@@ -34,6 +34,7 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 #### System Dynamics
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html"> Basics of System Dynamics </a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/stocks_and_flows.html"> Stocks and Flows - Building Blocks of Systems </a>
+- <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/feedback.html">Feedback - Systems Way of Communication</a>
 
 
 <!--<script>
