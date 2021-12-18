@@ -18,7 +18,7 @@ Fasten your seat belts! The ride's gonna be exciting!!
 
 ---
 - [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
-- [<< Previous Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
-- [>> Next Article (Basics of System Dynamics)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system-dynamics-basics.html)
+- [<< Previous Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/more_on_systems.html)
+- [>> Next Article (Basics of System Dynamics)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/system-dynamics-basics.html)
 
 
