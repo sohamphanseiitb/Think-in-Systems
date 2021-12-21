@@ -6,13 +6,15 @@ You must have by now, got a perspective of how we can think about simple things 
      alt="The Blind Men and the Elephant"
      style="float: left; vertical-align:center; margin-right: 10px;"/>
      
+<br>
 If you observe the amount of differences in opinions of what the thing is, you will understand how essential is it to look at things from a *holistic* perspective, and how wrong an opinion will you form if you look at it at a local level. So, a system is not equal to its parts but something more than its parts. Everyday examples of mathematics can help you understand this better and infact, there's a *Sufi* saying that goes like, 
 
-> <blockqoute>"You think you understand <q>two</q> because you understand <q>one</q> and <q>one</q>. But you forget you must also understand <q>and</q></blockqoute>. 
+> "You think you understand **_two_** because you understand **_one_** and **_one_**. But you forget you must also understand **_and_**.
 
 So not just elements, but the inter-connections are equally important, and last but not the least, the function the system performs of the purpose it serves. Systems can be simple, when we can predict how they will behave in the future, they are complex when we can't. Systems can be highly functional. Most importantly **Systems can be embedded within other systems, which themselves are a part of a larger system**. 
 
-Let's see some more examples of systems to make the idea, clear and easy to understand. Basically, it all depends on your point of view, a bird, an aeroplane, a tree, a forest, humans, cities, economies, solar systems, galaxies all are in principle, **Systems**. It is only the nature and complexity of the processes going on in these systems is different, but the principles which govern their, so-called, '**System**-ness is the same. Systems can adapt to changing scenarios, they can repair themselves over time, they can respond, react to situations and can display evolutionary behavior.
+Let's see some more examples of systems to make the idea, clear and easy to understand. Basically, it all depends on your point of view, a bird, an aeroplane, a tree, a forest, humans, cities, economies, solar systems, galaxies all are in principle, **Systems**. It is only the nature and complexity of the processes going on in these systems is different, but the principles which govern their, so-called, '**System**-ness is the same. Systems can adapt to changing scenarios, they can repair themselves over time, they can respond, react to situations and can display evolutionary behavior.![68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e416e4755676772596f336c425f4c49743573596e4277486145423f7069643d496d674465742672733d31](https://user-images.githubusercontent.com/67552598/146878963-16131429-39db-480b-8538-cebd649df0f4.jpg)
+
 
 In the last post, we looked at a school or an university from a systems perspective. Now, lets take a cricket team, or for that matter any sport team. Can we dissect and analyze it from the Systems perspective, why not, lets try!
 
