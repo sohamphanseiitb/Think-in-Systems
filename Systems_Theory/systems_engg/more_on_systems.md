@@ -5,11 +5,10 @@ You must have by now, got a perspective of how we can think about simple things 
 <img src="https://th.bing.com/th/id/OIP.AnGUggrYo3lB_LIt5sYnBwHaEB?pid=ImgDet&rs=1"
      alt="The Blind Men and the Elephant"
      style="float: left; vertical-align:center; margin-right: 10px;"/>
-     
-<br>
+    
 If you observe the amount of differences in opinions of what the thing is, you will understand how essential is it to look at things from a *holistic* perspective, and how wrong an opinion will you form if you look at it at a local level. So, a system is not equal to its parts but something more than its parts. Everyday examples of mathematics can help you understand this better and infact, there's a *Sufi* saying that goes like, 
 
-> "You think you understand **_two_** because you understand **_one_** and **_one_**. But you forget you must also understand **_and_**.
+> "You think you understand **_two_** because you understand **_one_** and **_one_**. But you forget you must also understand **_and_**".
 
 So not just elements, but the inter-connections are equally important, and last but not the least, the function the system performs of the purpose it serves. Systems can be simple, when we can predict how they will behave in the future, they are complex when we can't. Systems can be highly functional. Most importantly **Systems can be embedded within other systems, which themselves are a part of a larger system**. 
 
