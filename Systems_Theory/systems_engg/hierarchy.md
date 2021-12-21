@@ -8,7 +8,7 @@ A subsystem is a set of interacting components which perform a function but aren
 ## What is a System of Systems?
 
 <figure>
-  <img src="https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/system_engg/system%20of%20systems.PNG" height=500> </img>
+  <img src="https://sohamphanseiitb.github.io/Think-in-Systems/assets/system_engg/system%20of%20systems.PNG" height=500> </img>
   <figcaption> System of Systems [Ref: Dr. Ramakrishnan R., AE759, IIT Bombay] </figcaption>
   <br><br>
 </figure>
