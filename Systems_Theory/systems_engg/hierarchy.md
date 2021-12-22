@@ -12,7 +12,7 @@ On the other hand, the **engine** which powers the automobile also has several i
 ## What is a System of Systems?
 
 <figure>
-  <img src="https://sohamphanseiitb.github.io/Think-in-Systems/assets/system_engg/system%20of%20systems.PNG" height=500> </img>
+  <img src="https://sohamphanseiitb.github.io/Think-in-Systems/assets/system_engg/system%20of%20systems.PNG" height=500>
   <figcaption> System of Systems [Ref: Dr. Ramakrishnan R., AE759, IIT Bombay] </figcaption>
   <br><br>
 </figure>
