@@ -17,7 +17,9 @@ On the other hand, the **engine** which powers the automobile also has several i
   <br><br>
 </figure>
 
-A System of Systems is again a system, but a special one, since some (in some cases, all) of its components are systems themselves, meaning each of them has its own independent function/purpose and existence. For instance, consider the Air Transportation System. Mind you, I don't mean an aircraft here. An Air transportation system comprises of aircrafts, airports, air traffic control centres, maintainance centres, equipment, personnel and a whole lot of other things. If you think closely, some of them are systems in themselves, the airport is a system since it has many interacting components like ATC, cargo unit, maintainance units and performs the function of smooth air transportation and control. 
+A System of Systems is again a system, but a special one, since some (in some cases, all) of its components are systems themselves, meaning each of them has its own independent function/purpose and existence. 
+
+For instance, consider the Air Transportation System. Mind you, I don't mean an aircraft here. An Air transportation system comprises of aircrafts, airports, air traffic control centres, maintainance centres, equipment, personnel and a whole lot of other things. If you think closely, some of them are systems in themselves, the airport is a system since it has many interacting components like ATC, cargo unit, maintainance units and performs the function of smooth air transportation and control. 
 
 > As a rule of thumb, it is recommended that you decompose a system into not more than 5 to 7 subsystems. However, this rule can be overruled if the system organization needs more subsystems on the basis of the functions they all perform. 
 
