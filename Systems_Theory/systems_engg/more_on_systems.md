@@ -3,7 +3,7 @@
 By now you must have got a perspective of how we can apply **Systems Thinking to simple things** and draw important conclusions. In the last article we saw what a system is made of - elements, inter-relations and function/purpose. In this post, lets's delve deeper into how systems are formed. 
 
 > **A system is more that the sum of its parts**. 
->  
+
 Lets understand it this way - 
 
 <img src="https://th.bing.com/th/id/OIP.AnGUggrYo3lB_LIt5sYnBwHaEB?pid=ImgDet&rs=1"
