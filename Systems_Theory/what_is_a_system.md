@@ -32,4 +32,4 @@ Let me leave you at this point, try to think of examples which can be seen from 
 
 ---
 - [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)                                                
-- [>> Next Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/more_on_systems.html)
+- [>> Next Article (More on Systems)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/more_on_systems.html)
