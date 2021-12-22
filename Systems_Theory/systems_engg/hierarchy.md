@@ -3,7 +3,11 @@
 For the ease of analysis and organization, systems are divided into subsystems, components and parts. Sometimes multiple systems are combined together to form a **System of Systems**. Let us see what these mean, one by one. 
 
 ## What is a Subsystem?
-A subsystem is a set of interacting components which perform a function but aren't relevant on their own i.e they don't accomplish an objective on their own. The definition is quite similar to that of a system but there's a thin boundary separating the two. Let me qoute an example of an automobile. The automobile as a whole is a system, since it has a set of components like the engine, interior, braking mechanism, fuel tank, carbeurator, compressor which interact with each other and accomplish the objective of transporting matter from one point to another. On the other hand, the **engine** which powers the automobile also has several interacting components like the piston assembly, igniters, compressors and it performs the function of power generation. However, on its own it is of little use, since with raw power, things can't be transported but we need external support like powertrain, wheels to be installed. Hence the **engine** is a **subsystem**.
+A subsystem is a set of interacting components which perform a function but aren't relevant on their own i.e they don't accomplish an objective on their own. The definition is quite similar to that of a system but there's a thin boundary separating the two. 
+
+Let me quote the example of an automobile. The automobile as a whole is a system, since it has a set of components like the engine, interior, braking mechanism, fuel tank, carbeurator, compressor which interact with each other and accomplish the objective of transporting matter from one point to another. 
+
+On the other hand, the **engine** which powers the automobile also has several interacting components like the piston assembly, igniters, compressors and it performs the function of power generation. However, on its own it is of little use, since with raw power, things can't be transported but we need external support like powertrain, wheels to be installed. Hence the **engine** is a **subsystem**.
 
 ## What is a System of Systems?
 
