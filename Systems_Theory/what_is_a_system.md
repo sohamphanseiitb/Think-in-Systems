@@ -9,7 +9,7 @@ Getting back to describing a system – let's have a quick look at the definitio
 
 <img src="https://s3.amazonaws.com/lowres.cartoonstock.com/computers-check_up-check_up-system_wide_information_system-systems-back_up-bmm0271_low.jpg" height=300 width=450
      alt="Cartoon Tour of Systems Theory"
-     style="float: center; vertical-align:center; horizontal-align:center; margin-right: 10px;"></img>
+     style="float: center; vertical-align:center; horizontal-align:center; margin-right: 10px;"> Cartoon Tour of Systems Thinking </img>
 
 Okay, I can understand; it is indeed too much. Let's not try and gobble it all at once. Let's dissect it piece by piece. 
 
