@@ -1,4 +1,4 @@
-<!--DOCTYPE html
+<!--DOCTYPE html-->
 <html>
 <head>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -9,8 +9,9 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 </head>
-<body>-->
-## Namaste World!
+<body>
+  
+# Namaste World!
 
 Greetings from India!
 
@@ -20,19 +21,19 @@ Keeping this end in view, I plan to blog about Systems Engineering and Dynamics 
 
 I have tried it to keep it as intuitive as possible, and technical terms to a minimum because there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to and understandable by Undergraduates.
 
-## My recommendation
+# My recommendation
 <p> I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!</p>
 
-## Contents
-### The World of Systems
+# Contents
+## The World of Systems
 
-#### Systems Engineering
+### Systems Engineering
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/what_is_a_system.html"> What is a System?</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/more_on_systems.html">More on Systems</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/systems-engineering.html"> What is Systems Engineering?</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/hierarchy.html"> System Hierarchy</a>
 
-#### System Dynamics
+### System Dynamics
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/system-dynamics-basics.html"> Basics of System Dynamics </a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/stocks_and_flows.html"> Stocks and Flows - Building Blocks of Systems </a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/feedback.html">Feedback - Systems Way of Communication</a>
