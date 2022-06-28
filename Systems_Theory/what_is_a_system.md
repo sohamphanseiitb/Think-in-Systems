@@ -7,7 +7,7 @@ It's surreal that we come across a countless number of systems in our lives, but
 Getting back to describing a system – let's have a quick look at the definition first, 
 > "System is a set of interacting components, coherently organized in such a way to bring out a characteristic behaviour, perform a function or satisfy a purpose."
 
-<img src="https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/systems-blog-1.png">
+<img src="https://github.com/sohamphanseiitb/Think-in-Systems/blob/gh-pages/assets/blog1.jpg">
 
 Okay, I can understand; it is indeed too much. Let's not try and gobble it all at once. Let's dissect it piece by piece. 
 
