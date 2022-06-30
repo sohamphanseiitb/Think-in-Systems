@@ -25,7 +25,7 @@ For instance, consider the Air Transportation System. Mind you, I don't mean an 
 
 All in all, we can clearly see that hierarchy and organization in a system is just a way to ease administration and analysis of a system. There aren't strict rules of how to demarcate systems, but some general guidelines and thumb rules can be used to ease the process. 
 
-You now know the basic barebones of a system and how it is divided into subsystems or clubbed in System of Systems. We will next look at the variuos processes which go on before the successful deployment of a system and not only that, the maintainance and retirement phase of any system. Stay tuned!
+You now know the basic barebones of a system and how it is divided into subsystems or clubbed in System of Systems. We will next look at the various processes which go on before the successful deployment of a system and not only that, the maintainance and retirement phase of any system. Stay tuned!
 
 ---
 - [Homepage](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
