@@ -12,3 +12,4 @@ This was a short post, but get ready for a full fledged, simple yet revealing sy
 
 - [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
 - [<< Previous Article (Feedback)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/feedback.html)
+- [>> Next Article (Systems Zoo - One Stock System)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/one_stock_sys.html)
