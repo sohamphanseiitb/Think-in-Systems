@@ -18,4 +18,14 @@ These are some of the most important questions a person designing a transportati
 
 Formally, this is named - **concept selection**, and is executed with a variety of tools - called as the **Pugh Matrix** or the **concept selection matrix** (if you find these words complicated, you might as well just call them - **Decision Matrices**, tools which help you compare pros and cons of the candidate solutions and help you make decisions. 
 
-Let me show you a quick example - suppose you want to deploy an autonomous air surveillance systems on the international borders - to monitor illegal tresspassing activities, and you have decided it to be based on Unmanned Aerial Vehicles (commonly known as **drones**)u
+Let me show you a quick example - suppose you want to deploy an autonomous air surveillance systems on the international borders - to monitor illegal tresspassing activities, and you have decided it to be based on Unmanned Aerial Vehicles (commonly known as **drones**). There are many kinds of drones - helis, multi-copters, fixed wings, tilt rotors which ones should you use? Here's how a decision matrix can help you do that (courtesy of me and my colleagues (and dear friends): Neilabh Banzal, Karan Jagdale and Mohit Dhaka from IIT Bombay):
+
+![Decision Matrix](https://sohamphanseiitb.github.io/Think-in-Systems/assets/system_engg/decision%20matrix.png)
+
+All in all the process is simple, its just that first you expand your design/solution space - i.e think about all the different solutions which you can implement to solve the problem/satisfy the purpose and then converge onto a single solution - which is the most optimal.
+
+The topic also sees light in the modern management - the theory of decision making, or **TRIZ** - theory of inventive problem solving. These are pretty advanced topics and you might want to have a look at them, you will find good resources on the internet. If you ask me, currently I will be focusing on the fundamentals, maybe in time I might drop an article or two about it!
+
+Hope that the concept was clear, its been long, let's take a break here, we will talk about the details of system design - the system architecture, the design aspects and production.
+
+Stay tuned till then!
