@@ -41,6 +41,15 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/cld.html">Causal Loop Diagrams</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/one_stock_sys.html">Systems Zoo - One Stock System</a>
 
+# Acknowledgements
+I will be honest - the blog was a small effort which I started in my vacation to document things that I knew about Systems Theory to share it wiht others and especially for the undergraduate community. However, I couldn't have learnt this much without the following individuals, I am forever indebted to the following individuals, for instilling a sense and interest (directly or indirectly) in systems theory.
+
+- Prof. Hemendra Arya, faculty and mentor who taught me a semester long course on Systems Engineering at IIT Bombay. 
+- Prof. Shireesh Kedare, my advisor, who introduced me to 'Systems Thinking' and its applications, while I was a fresher on campus. 
+- Prof. Rangan Banerjee, who guided me and gave me the freedom to explore system dynamics and its applications in Socio-Economic Systems Modeling
+- Prof. Donella Meadows and Prof. Peter Senge, whose books 'Thinking in Systems' (after whom this blog is named) and 'The Fifth Discipline' furthered my interests and intrigued me enough to explore more. 
+
+I can't thank **my team - IIT Bombay Student Satellite Program**, to give me the opportunity to lead a satellite mission - wherein I could implement things that I learnt in a textbook into the real world; seniors - Shaun Zacharia, Sanskriti Bhansali, Aniruddha Ranade, Neilabh Banzal from whom I leanrt a lot in terms of project management, organization theory, a lot of colleagues and juniors and friends who have had my back. Lastly I thank my Mom and Dad for all the support and encouragement they have given me from years to pursue my passion and keep working towards the goal. 
 
 <!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
