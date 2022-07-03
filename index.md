@@ -43,7 +43,7 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/one_stock_sys.html">Systems Zoo - One Stock System</a>
 
 # Acknowledgements
-I will be honest - the blog was a small effort which I started in my vacation to document things that I knew about Systems Theory to share it wiht others and especially for the undergraduate community. However, I couldn't have learnt this much without the following individuals, I am forever indebted to the following individuals, for instilling a sense and interest (directly or indirectly) in systems theory.
+I will be honest - the blog was a small effort which I started in my vacation to document things that I knew about Systems Theory to share it with others and especially for the undergraduate community. However, I couldn't have learnt this much without the following individuals, I am forever indebted to the following individuals, for instilling a sense and interest (directly or indirectly) in systems theory.
 
 - [Prof. Hemendra Arya](https://www.aero.iitb.ac.in/~arya/), faculty and mentor who taught me a semester long course on Systems Engineering at IIT Bombay. 
 - [Prof. Shireesh Kedare](https://www.ese.iitb.ac.in/faculty/shireesh-b-kedare), my advisor, who introduced me to 'Systems Thinking' and its applications, while I was a fresher on campus. 
