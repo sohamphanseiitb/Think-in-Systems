@@ -30,5 +30,7 @@ Hope that the concept was clear, its been long, let's take a break here, we will
 
 Stay tuned till then!
 
->> [Previous Article (System Hierarchy)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/hierarchy.html)
->> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
+---
+
+- [Previous Article (System Hierarchy)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/hierarchy.html)
+- [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
