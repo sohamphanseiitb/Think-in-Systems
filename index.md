@@ -50,7 +50,10 @@ I will be honest - the blog was a small effort which I started in my vacation to
 - Prof. Rangan Banerjee, who guided me and gave me the freedom to explore system dynamics and its applications in Socio-Economic Systems Modeling
 - Prof. Donella Meadows and Prof. Peter Senge, whose books 'Thinking in Systems' (after whom this blog is named) and 'The Fifth Discipline' furthered my interests and intrigued me enough to explore more. 
 
-I can't thank **my team - IIT Bombay Student Satellite Program** enough, to give me the opportunity to lead a satellite mission - wherein I could implement things that I learnt in a textbook into the real world; seniors - Shaun Zacharia, Sanskriti Bhansali, Aniruddha Ranade, Neilabh Banzal from whom I leanrt a lot in terms of project management, organization theory, a lot of colleagues and juniors and friends who have had my back. Lastly I thank my Mom and Dad for all the support and encouragement they have given me from years to pursue my passion and keep working towards the goal. 
+I can't thank **my team - IIT Bombay Student Satellite Program** enough, to give me the opportunity to lead a satellite mission - wherein I could implement things that I learnt in a textbook into the real world; seniors - Shaun Zacharia, Sanskriti Bhansali, Aniruddha Ranade, Neilabh Banzal from whom I learnt a lot in terms of project management, organization theory, a lot of colleagues and juniors and friends who have had my back. Lastly I thank my Mom and Dad for all the support and encouragement they have given me from years to pursue my passion and keep working towards the goal. 
+
+# Suggestions?
+Feel free to suggest things you might want to see in the blog. Fill out [this form](https://forms.gle/1eto2xQTTePT7WtBA), else feel free to ping me at [19D170030@iitb.ac.in](mailto:19D170030@iitb.ac.in)
 
 <!--<script>
 MathJax = {tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}, svg: {fontCache: 'global'}};
