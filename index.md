@@ -33,6 +33,7 @@ I have tried it to keep it as intuitive as possible, and technical terms to a mi
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/systems-engineering.html"> What is Systems Engineering?</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/hierarchy.html"> System Hierarchy</a>
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/system_design.html"> System Design - Selection </a>
+- <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/reqs.html"> System Design - Requirements </a>
 
 ### System Dynamics
 - <a href="https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/system_dynamics/system-dynamics-basics.html"> Basics of System Dynamics </a>
