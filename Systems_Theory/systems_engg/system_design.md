@@ -29,3 +29,6 @@ The topic also sees light in the modern management - the theory of decision maki
 Hope that the concept was clear, its been long, let's take a break here, we will talk about the details of system design - the system architecture, the design aspects and production.
 
 Stay tuned till then!
+
+>> [Previous Article (System Hierarchy)](https://sohamphanseiitb.github.io/Think-in-Systems/Systems_Theory/systems_engg/hierarchy.html)
+>> [Home Page](https://sohamphanseiitb.github.io/Think-in-Systems/index.html)
