@@ -19,7 +19,7 @@ I am [Soham Phanse](https://sites.google.com/iitb.ac.in/soham-phanse/home), a fi
 
 Keeping this end in view, I plan to blog about Systems Engineering and Dynamics and share my learnings from what I learnt through courses, projects but more importantly by working at the <a href="https://www.aero.iitb.ac.in/satlab">Student Satellite Program</a>.
 
-I have tried it to keep it as intuitive as possible, and technical terms to a minimum because there already exist heavyily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to and understandable by Undergraduates.
+I have tried it to keep it as intuitive as possible, and technical terms to a minimum because there already exist heavily technical and in-depth reading resources on systems engineering. However, there is a steep dearth of articles accessible to and understandable by Undergraduates.
 
 # My recommendation
 <p> I would recommend everyone to read this blog sequentially, don't directly jump over to advanced articles. The articles slowly build upon things and go upto a slightly advanced level. Feel free to drop me an email in case you want to discuss! That is all I want to mention, my best wishes to the readers! Happy Systems-Engineering!!</p>
